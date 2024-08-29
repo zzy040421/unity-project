@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Lobby.unity
+    guid: 86935e7f96afb4da5945e416357c418b
+  - enabled: 1
+    path: Assets/JoinRoom.unity
+    guid: 30280bf8f64d645b38ccfd74d5ec7844
+  - enabled: 1
+    path: Assets/WaitingRoom.unity
+    guid: 058b319aed6824bd2904e4abd8ff3fff
+  - enabled: 1
+    path: Assets/CollaborateHumanMC.unity
+    guid: 643882fc3f269494b987b147412853c6
+  - enabled: 1
+    path: Assets/CollaborateRobotMC.unity
+    guid: bfde105a1038d4ab88cdc43892cbac3a
+  - enabled: 1
+    path: Assets/CompeteMode.unity
+    guid: 3bbfaec1eec26480f9d8e9160a2865cc
+  - enabled: 0
+    path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scenes/DemoAsteroids-LobbyScene.unity
+    guid: c8a9d1312a49dc8488a9b32d83d659c7
+  - enabled: 1
+    path: Assets/GameEnd2.unity
+    guid: 65b55c4fb33438b4e9ae6d1942576020
+  - enabled: 1
+    path: Assets/GameEndScene.unity
+    guid: a08025d96241d4edc99da62f954de6a5
+  m_configObjects: {}

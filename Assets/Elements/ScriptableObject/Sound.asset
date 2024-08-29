@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a516212f34b794a4f80e233d1b4e15e1, type: 3}
+  m_Name: Sound
+  m_EditorClassIdentifier: 
+  cardType: 2
+  cardFront: {fileID: 21300000, guid: 4e2164c8548ad4a5f8d389727424454f, type: 3}
+  images: []
+  questions:
+  - Tell us something about this sound
+  soundClips:
+  - {fileID: 8300000, guid: 5669fcc42da584d57b1fae150d53291a, type: 3}
+  - {fileID: 8300000, guid: 077da9a6c5cc74829a769bee51b6dc04, type: 3}
+  - {fileID: 8300000, guid: 838dc345adb2b4018a3e2bea0a50b8cd, type: 3}
+  - {fileID: 8300000, guid: 6c85a4b395a3c489799a36962840f073, type: 3}
+  - {fileID: 8300000, guid: e92a716f243cc4359b15fa1bc7914cab, type: 3}
